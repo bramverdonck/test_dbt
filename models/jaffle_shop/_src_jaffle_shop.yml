@@ -2,8 +2,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    database: dbo  
-    schema: jaffle_shop  
+    schema: dbo
     tables:
       - name: orders
       - name: customers
